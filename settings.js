@@ -6,14 +6,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "255697608274"
-global.ownername = "𝐷𝛥𝛮𝛮𝑌"
-global.ownernumber = '255697608274'  //owner number 2
+global.ownernomer = "18768489691"
+global.ownername = "mr no name"
+global.ownernumber = '18768489691'  //owner number 2
 //put your phone number above
 //let the owner as Danny or you can just put your name
 
 //custom prefix
-global.prefa = [',','!','.','#','&']
+global.prefa = ['.']
 //above is a prefix for activating bot
 
 //false=disable and true=enable
@@ -23,9 +23,9 @@ global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti91 = false //auto block +91 
-global.autoswview = true //auto view status/story
+global.autoswview = false //auto view status/story
 global.antilink = true; // Default: disabled
-global.autostatusReact = true; // Default: disabled
+global.autostatusReact = false; // Default: disabled
 global.reactEmoji = '😂'; // Default reaction emoji
 //Thank you for using 𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏
 //suppoet us by following our official channel
